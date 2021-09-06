@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @shruti2898
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Shruti.
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
